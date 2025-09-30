@@ -1,4 +1,4 @@
-#React Client-Side Routing App
+# React Client-Side Routing App
 
 This project demonstrates client-side routing in a React application using react-router-dom. The application is styled with Tailwind CSS and includes multiple pages such as Home, About, Contact, etc.
 
