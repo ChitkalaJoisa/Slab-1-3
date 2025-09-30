@@ -4,15 +4,22 @@ This project demonstrates client-side routing in a React application using react
 
 **Features**
 
-React with Vite setup\n
+React with Vite setup
+
 Tailwind CSS for styling
+
 Client-side routing using react-router-dom
+
 Multiple pages with navigation links
+
 Contact form with success message popup
 
 **Tech Stack**
 
 React
+
 Vite
+
 Tailwind CSS
+
 React Router DOM
