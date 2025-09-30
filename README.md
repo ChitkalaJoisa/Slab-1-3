@@ -4,7 +4,7 @@ This project demonstrates client-side routing in a React application using react
 
 **Features**
 
-React with Vite setup
+React with Vite setup\n
 Tailwind CSS for styling
 Client-side routing using react-router-dom
 Multiple pages with navigation links
